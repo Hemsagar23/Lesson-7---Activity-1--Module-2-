@@ -1,0 +1,27 @@
+/*Element selector*/
+h3 {
+    color: dodgerblue;
+    font-family: cursive;
+}
+
+/*Universal selector*/
+*{
+    background-color: blanchedalmond;
+}
+
+/*ID selector*/
+#para{
+    color: rgb(64, 125, 125);
+    font-style: italic;
+}
+
+/*Class selector*/
+.classp{
+    color: blue;
+}
+
+/*Group selector*/
+h1, h5{
+    color: darkcyan;
+    font-family: fantasy;
+}
